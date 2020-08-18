@@ -4,12 +4,12 @@ The project makes use of the pythons OpenCV library to capture live video and pr
 You can turn the car right or left by turning the combinations of your fists in left or right directions respectively as if you are holding a virtual steering wheel.
 
 
-![](images/ACTIONS.png)
+![](images/ACTIONS.PNG)
 
 The project includes turning left , turning right , moving forward , and applying brakes(moving backwards).
 
 
-![](images/simulation.png)
+![](images/simualation.png)
 
 
 ![](images/simulation1.png)
